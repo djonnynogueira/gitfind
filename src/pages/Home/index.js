@@ -12,7 +12,8 @@ function App() {
           <div>
             <input name='usuario' placeholder='@username' />
             <button>Buscar</button>
-          </div>       
+          </div>   
+
             <div className='perfil'>
               <img src='https://avatars.githubusercontent.com/u/13878534?v=4'
                 className='profile' alt='Imagem do perfil'
@@ -22,7 +23,8 @@ function App() {
                 <span>Descrição</span>
                 <p>Descrição</p>
               </div>
-            </div>      
+            </div>  
+                
           <hr />
         </div>
       </div>
