@@ -78,3 +78,9 @@ button {
     margin: 12px;
     text-align: center;
 }
+
+.pagination{
+    display: block;
+    text-decoration: none;
+
+}
